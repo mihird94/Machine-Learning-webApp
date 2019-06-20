@@ -1,0 +1,31 @@
+<style >
+      body {
+  background-image: url("https://img.wallpapersafari.com/desktop/1680/1050/65/36/0SMaGY.jpg");
+      }
+    </style>
+
+
+{% extends "bootstrap/base.html" %}
+{% block content %}
+<div class="container">
+  <div class="jumbotron" style="background-color:#1daeff !important;">
+    <h2 style="color:#fff;"><center>Poker Hand predictor</center> </h2>      
+    <center><p style="color:#fff;font-size:60px;">Results</p></center>
+  </div>         
+</div>
+
+
+
+<div class="card text-center">
+
+<blink><h2>{{name[0]}}</h2></blink>
+<p style="font-size: 20px;">{{name[1]}}</p>
+<form>
+  <input type="button" value="Go back!" onclick="history.back()" style="font-size: 18px;color:blue;">
+</form>
+
+</div>
+
+
+
+{%endblock%}
