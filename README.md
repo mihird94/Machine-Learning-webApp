@@ -3,6 +3,7 @@ This App uses Flask to Host a Multi-layer perceptron model that predicts the pok
 run python app.py 
 
 
+![alt text](https://github.com/mihird94/Machine-Learning-webApp/blob/master/front%20screen.PNG)
 
 
 
