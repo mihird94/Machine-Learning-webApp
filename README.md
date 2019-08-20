@@ -9,6 +9,6 @@ App's maining landing page where the user chooses card and suite:-
 
 Results Page after performing predictions based on user inputs:-
 
-![alt text] (https://github.com/mihird94/Machine-Learning-webApp/blob/master/results_screen.PNG)
+![alt text](https://github.com/mihird94/Machine-Learning-webApp/blob/master/results_screen.PNG)
 
 
